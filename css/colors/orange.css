@@ -1,0 +1,86 @@
+/* ==============================================
+Orange Color Scheme
+=============================================== */
+
+::-moz-selection {
+ background: #fc4f08;
+}
+::selection {
+	background: #fc4f08;
+}
+
+
+.btn-home a,
+.skillbar-title,
+.skillbar-bar,
+#filters li span.active,
+#filters li span:hover,
+#filters li span:focus,
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.blog-list li:hover {
+	background: #fc4f08;
+}
+
+
+a,
+.about-icon .fa-circle,
+.highlight,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover,
+.navbar-default .navbar-nav > .hovernav:hover > a:focus
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li > span:hover,
+.nav > li > span:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.portfolio-links a:hover,
+.portfolio-links .icon:hover,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.btn-link,
+.post-title a:hover,
+.post-title a:focus
+ {
+	color: #fc4f08;
+}
+
+.s-menu-c a {
+    color: #fc4f08 !important;
+}
+
+.phone-info {
+	background: rgba(252, 79, 8, 0.2);
+}
+
+.grid figcaption {
+	background: #fc4f08;
+	
+}
+
+.grid figcaption  a.btn-primary {
+    
+    background: #fff;
+    color: #fc4f08;
+}
+
+
+.price-box {
+    
+    border-color: #fc4f08;
+    
+}
+
+.price-box-big {
+    
+    border-color: #fc4f08;
+    
+}
+

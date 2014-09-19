@@ -1,0 +1,85 @@
+/* ==============================================
+Red Color Scheme
+=============================================== */
+
+::-moz-selection {
+ background: #D42C2C;
+}
+::selection {
+	background: #D42C2C;
+}
+
+
+.btn-home a,
+.skillbar-title,
+.skillbar-bar,
+#filters li span.active,
+#filters li span:hover,
+#filters li span:focus,
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.blog-list li:hover {
+	background: #D42C2C;
+}
+
+
+a,
+.about-icon .fa-circle,
+.highlight,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover,
+.navbar-default .navbar-nav > .hovernav:hover > a:focus
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li > span:hover,
+.nav > li > span:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.portfolio-links a:hover,
+.portfolio-links .icon:hover,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.btn-link,
+.post-title a:hover,
+.post-title a:focus
+ {
+	color: #D42C2C;
+}
+
+.s-menu-c a {
+    color: #D42C2C !important;
+}
+
+
+.phone-info {
+	background: rgba(212, 44, 44, 0.2);
+}
+
+.grid figcaption {
+	background: #D42C2C;
+	
+}
+
+.grid figcaption  a.btn-primary {
+    
+    background: #fff;
+    color: #D42C2C;
+}
+
+.price-box {
+    
+    border-color: #D42C2C;
+    
+}
+
+.price-box-big {
+    
+    border-color: #D42C2C;
+    
+}

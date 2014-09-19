@@ -1,0 +1,84 @@
+/* ==============================================
+Pink Color Scheme
+=============================================== */
+
+::-moz-selection {
+ background: #FF5CD6;
+}
+::selection {
+	background: #FF5CD6;
+}
+
+
+.btn-home a,
+.skillbar-title,
+.skillbar-bar,
+#filters li span.active,
+#filters li span:hover,
+#filters li span:focus,
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.blog-list li:hover {
+	background: #FF5CD6;
+}
+
+
+a,
+.about-icon .fa-circle,
+.highlight,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover,
+.navbar-default .navbar-nav > .hovernav:hover > a:focus
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li > span:hover,
+.nav > li > span:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.portfolio-links a:hover,
+.portfolio-links .icon:hover,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.btn-link,
+.post-title a:hover,
+.post-title a:focus
+ {
+	color: #FF5CD6;
+}
+
+.s-menu-c a {
+    color: #FF5CD6 !important;
+}
+
+.phone-info {
+	background: rgba(255, 92, 214, 0.2);
+}
+
+.grid figcaption {
+	background: #FF5CD6;
+	
+}
+
+.grid figcaption  a.btn-primary {
+    
+    background: #fff;
+    color: #FF5CD6;
+}
+
+.price-box {
+    
+    border-color: #FF5CD6;
+    
+}
+
+.price-box-big {
+    
+    border-color: #FF5CD6;
+    
+}

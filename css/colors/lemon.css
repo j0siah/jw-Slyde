@@ -1,0 +1,87 @@
+
+/* ==============================================
+Yellow Color Scheme
+=============================================== */
+
+::-moz-selection {
+ background: #fcd20b;
+}
+::selection {
+	background: #fcd20b;
+}
+
+
+.btn-home a,
+.skillbar-title,
+.skillbar-bar,
+#filters li span.active,
+#filters li span:hover,
+#filters li span:focus,
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.blog-list li:hover {
+	background: #fcd20b;
+}
+
+
+a,
+.about-icon .fa-circle,
+.highlight,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover,
+.navbar-default .navbar-nav > .hovernav:hover > a:focus
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav > li > span:hover,
+.nav > li > span:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.portfolio-links a:hover,
+.portfolio-links .icon:hover,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.btn-link,
+.post-title a:hover,
+.post-title a:focus
+ {
+	color: #fcd20b;
+}
+
+.s-menu-c a {
+    color: #fcd20b !important;
+}
+
+
+.phone-info {
+	background: rgba(252, 210, 11, 0.2);
+}
+
+.grid figcaption {
+	background: #fcd20b;
+	
+}
+
+.grid figcaption  a.btn-primary {
+    
+    background: #fff;
+    color: #fcd20b;
+}
+
+
+.price-box {
+    
+    border-color: #fcd20b;
+    
+}
+
+.price-box-big {
+    
+    border-color: #fcd20b;
+    
+}

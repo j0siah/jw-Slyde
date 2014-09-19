@@ -1,0 +1,97 @@
+
+/* ==============================================
+Light Brown Colo Scheme
+=============================================== */
+
+::-moz-selection {
+ background: #855C33;
+}
+::selection {
+	background: #855C33;
+}
+
+
+.btn-home a,
+.skillbar-title,
+.skillbar-bar,
+#filters li span.active,
+#filters li span:hover,
+#filters li span:focus,
+.btn-primary,
+.label-primary,
+#contact input.submit,
+.blog-list li:hover {
+	background: #855C33;
+}
+
+
+a,
+.about-icon .fa-circle,
+.highlight,
+figure figcaption a:hover,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:active,
+.dropdown-menu > li > a:focus
+.navbar-default .navbar-nav > .hovernav:hover > a,
+.navbar-default .navbar-nav > .hovernav:active > a,
+.navbar-default .navbar-nav > .hovernav:hover > a:hover,
+.navbar-default .navbar-nav > .hovernav:hover > a:active,
+.navbar-default .navbar-nav > .hovernav:hover > a:focus
+.nav > li > a:hover,
+.nav > li > a:active,
+.nav > li > a:focus,
+.nav > li > span:hover,
+.nav > li > span:active,
+.nav > li > span:focus,
+.navbar-nav > li  .active,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:active, 
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:focus,
+.portfolio-links a:hover,
+.portfolio-links a:active,
+.portfolio-links .icon:hover,
+.portfolio-links .icon:active,
+.connected-icon a:focus,
+.connected-icon a:hover,
+.connected-icon a:active,
+.btn-link,
+.post-title a:hover,
+.post-title a:active,
+.post-title a:focus
+ {
+	color: #855C33;
+}
+
+.s-menu-c a {
+    color: #855C33 !important;
+}
+
+.phone-info {
+	background: rgba(133, 92, 51, 0.2);
+}
+
+.grid figcaption {
+	background: #855C33;
+	
+}
+
+.grid figcaption  a.btn-primary {
+    
+    background: #fff;
+    color: #855C33;
+}
+
+.price-box {
+    
+    border-color: #855C33;
+    
+}
+
+.price-box-big {
+    
+    border-color: #855C33;
+    
+}
